@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <i>Open to full-stack, frontend, and AI engineer opportunities 🚀</i>
+  <i>Open to frontend opportunities 🚀</i>
 </p>
