@@ -1,15 +1,13 @@
 <h1 align="center">Hey, I'm Franco 👋</h1>
-<h3 align="center">Full-Stack / Frontend Developer • Bachelor of Science in Information Technology Graduate </h3>
+<h3 align="center">Frontend Developer • Bachelor of Science in Information Technology Graduate </h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Graduating **BS Information Technology** student at **National University Manila** (Mobile & Web Applications)
-- 💻 Focused on **full-stack**, **frontend**, and **AI engineering** roles
-- 🛠️ Comfortable across the stack with **React, Next.js, TypeScript, Node.js, and PostgreSQL**
-- 🤖 Building hands-on with the **Anthropic/Claude API** — RAG, agents, and AI-powered features on real projects
-- 🎥 Also run a content creation side — YouTube, short-form video, and building a gaming content channel
+- 🎓 Front-End Developer | BS Information Technology (Magna Cum Laude)
+- 💻 Focused on **frontend** roles
+- 🛠️ Comfortable across the stack with **React, Next.js, TypeScript**
 - 📍 Based in Metro Manila, Philippines
 
 ---
@@ -27,6 +25,8 @@
 | Project | Description |
 |---|---|
 | **CMRO (CMR Opportunities)** | Intern management portal built in Next.js + shadcn/ui with a full dark/light design system |
+| **Lyrics Visualizer** | Nostalgic visuals synced to music with lyrics|
+| **Stationed** | A mobile focused recipe library with AI that captures ingredients|
 | **MovieHub** | Figma UI/UX project — 🏆 1st place competition winner |
 
 ---
