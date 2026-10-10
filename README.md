@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Franco 👋</h1>
 <h3 align="center">Full-Stack / Frontend Developer • Bachelor of Science in Information Technology Graduate </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=5B8DEE&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+React+%2B+Next.js;Shipping+AI-powered+tools+with+the+Claude+API;Also+making+content+on+the+side+%F0%9F%8E%AC" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
