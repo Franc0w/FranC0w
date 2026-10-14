@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Franco 👋</h1>
-<h3 align="center">Frontend Developer • Bachelor of Science in Information Technology Graduate </h3>
+<h3 align="center">Full-Stack Developer • Bachelor of Science in Information Technology Graduate </h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Front-End Developer | BS Information Technology (Magna Cum Laude)
+- 🎓 Full-Stack  Developer | BS Information Technology (Magna Cum Laude)
 - 💻 Focused on **frontend** roles
 - 🛠️ Comfortable across the stack with **React, Next.js, TypeScript**
 - 📍 Based in Metro Manila, Philippines
@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <i>Open to frontend opportunities 🚀</i>
+  <i>Open to Full-Stack opportunities 🚀</i>
 </p>
